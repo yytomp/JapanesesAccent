@@ -1,0 +1,36 @@
+id:1!kanji:開く!Hiragana:あく!Length:2!Difficulty:1!English:open
+id:2!kanji:言う!Hiragana:いう!Length:2!Difficulty:1!English:To tell
+id:3!kanji:行く!Hiragana:いく!Length:2!Difficulty:1!English:go
+id:4!kanji:要る!Hiragana:いる!Length:2!Difficulty:1!English:Need
+id:5!kanji:売る!Hiragana:うる!Length:2!Difficulty:1!English:sell
+id:6!kanji:置く!Hiragana:おく!Length:2!Difficulty:1!English:Put
+id:7!kanji:押す!Hiragana:おす!Length:2!Difficulty:1!English:Push
+id:8!kanji:買う!Hiragana:かう!Length:2!Difficulty:1!English:buy
+id:9!kanji:貸す!Hiragana:かす!Length:2!Difficulty:1!English:lend
+id:10!kanji:聞く!Hiragana:きく!Length:2!Difficulty:1!English:listen
+id:11!kanji:消す!Hiragana:けす!Length:2!Difficulty:1!English:Extinguish
+id:12!kanji:死ぬ!Hiragana:しぬ!Length:2!Difficulty:1!English:die
+id:13!kanji:知る!Hiragana:しる!Length:2!Difficulty:1!English:know
+id:14!kanji:吸う!Hiragana:すう!Length:2!Difficulty:1!English:suck
+id:15!kanji:飛ぶ!Hiragana:とぶ!Length:2!Difficulty:1!English:jump
+id:16!kanji:乗る!Hiragana:のる!Length:2!Difficulty:1!English:get on
+id:17!kanji:履く!Hiragana:はく!Length:2!Difficulty:1!English:wear
+id:18!kanji:弾く!Hiragana:ひく!Length:2!Difficulty:1!English:play
+id:19!kanji:引く!Hiragana:ひく!Length:2!Difficulty:1!English:Pull
+id:20!kanji:呼ぶ!Hiragana:よぶ!Length:2!Difficulty:1!English:Call
+id:21!kanji:合う!Hiragana:あう!Length:2!Difficulty:1!English:Fit
+id:22!kanji:会う!Hiragana:あう!Length:2!Difficulty:1!English:meet
+id:23!kanji:飼う!Hiragana:かう!Length:2!Difficulty:1!English:keep
+id:24!kanji:書く!Hiragana:かく!Length:2!Difficulty:1!English:write
+id:25!kanji:切る!Hiragana:きる!Length:2!Difficulty:1!English:Cut
+id:26!kanji:住む!Hiragana:すむ!Length:2!Difficulty:1!English:live
+id:27!kanji:立つ!Hiragana:たつ!Length:2!Difficulty:1!English:stand
+id:28!kanji:出す!Hiragana:だす!Length:2!Difficulty:1!English:put out
+id:29!kanji:取る!Hiragana:とる!Length:2!Difficulty:1!English:take
+id:30!kanji:撮る!Hiragana:とる!Length:2!Difficulty:1!English:take
+id:31!kanji:脱ぐ!Hiragana:ぬぐ!Length:2!Difficulty:1!English:Take off
+id:32!kanji:飲む!Hiragana:のむ!Length:2!Difficulty:1!English:to drink
+id:33!kanji:降る!Hiragana:ふる!Length:2!Difficulty:1!English:Fall
+id:34!kanji:待つ!Hiragana:まつ!Length:2!Difficulty:1!English:wait
+id:35!kanji:持つ!Hiragana:もつ!Length:2!Difficulty:1!English:To have
+id:36!kanji:読む!Hiragana:よむ!Length:2!Difficulty:1!English:Read
